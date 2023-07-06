@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2oULyp6vWrMALLBOgpcwtWM6lRfQOYMq/8c9145+h9JTcxEfeomtt6C26DhDcP8AqOsUN9wGHxWuABbaCEIpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo Innovt\\Lambda\\Aws-Lambda.Platform\\Aws-Lambda.Platformmm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\awssdk.core\\3.7.107.10\\awssdk.core.3.7.107.10.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.101.84\\awssdk.simplenotificationservice.3.7.101.84.nupkg.sha512"
+  ],
+  "logs": []
+}

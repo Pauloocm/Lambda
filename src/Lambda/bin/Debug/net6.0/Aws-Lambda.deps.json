@@ -1,0 +1,175 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aws-Lambda/1.0.0": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0",
+          "Amazon.Lambda.Serialization.SystemTextJson": "2.3.1",
+          "Aws.Lambda.Platform": "1.0.0",
+          "NSubstitute": "5.0.0"
+        },
+        "runtime": {
+          "Aws-Lambda.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.1": {
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.107.10": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.107.10"
+          }
+        }
+      },
+      "AWSSDK.SimpleNotificationService/3.7.101.84": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.107.10"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SimpleNotificationService.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.101.84"
+          }
+        }
+      },
+      "Castle.Core/5.0.0": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Castle.Core.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "NSubstitute/5.0.0": {
+        "dependencies": {
+          "Castle.Core": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/NSubstitute.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Aws.Lambda.Platform/1.0.0": {
+        "dependencies": {
+          "AWSSDK.SimpleNotificationService": "3.7.101.84",
+          "Amazon.Lambda.Core": "2.1.0",
+          "NSubstitute": "5.0.0"
+        },
+        "runtime": {
+          "Aws.Lambda.Platform.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aws-Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "path": "amazon.lambda.core/2.1.0",
+      "hashPath": "amazon.lambda.core.2.1.0.nupkg.sha512"
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7dGGgikMlEz72rGqeDwQEIxq+O8RDEdR4GH2S7hfZ8uzv5lyWVDuP2urV6MyD6APJ2WVHRwJlV74bB+XJncQpw==",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.1",
+      "hashPath": "amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.107.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OtFwgcxnY9d/2Qk2hRVhEX/g5AvYDfUgmqoIsGXzhLwL75R/R8APzN0CVqXdv+iCNgPx20lGHgEH72DiqDqA4g==",
+      "path": "awssdk.core/3.7.107.10",
+      "hashPath": "awssdk.core.3.7.107.10.nupkg.sha512"
+    },
+    "AWSSDK.SimpleNotificationService/3.7.101.84": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/GOXSdRoUh7reqmWSF3o4v8kVSTuwsShQ4u+2miaUvRlWHPxWHIEhgWOj7+gWLBzlpJzggK2Hvh4ZWOdRGSO+w==",
+      "path": "awssdk.simplenotificationservice/3.7.101.84",
+      "hashPath": "awssdk.simplenotificationservice.3.7.101.84.nupkg.sha512"
+    },
+    "Castle.Core/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-edc8jjyXqzzy8jFdhs36FZdwmlDDTgqPb2Zy1Q5F/f2uAc88bu/VS/0Tpvgupmpl9zJOvOo5ZizVANb0ltN1NQ==",
+      "path": "castle.core/5.0.0",
+      "hashPath": "castle.core.5.0.0.nupkg.sha512"
+    },
+    "NSubstitute/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CWGy4oXvcJcZzL7m5Rr/eMSejFXMDq1RRMlsbL6eltS3AuN/d8GH3ZzUcuStQcCSlcx+hpsgTxdnb3lhozWG6w==",
+      "path": "nsubstitute/5.0.0",
+      "hashPath": "nsubstitute.5.0.0.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lcyUiXTsETK2ALsZrX+nWuHSIQeazhqPphLfaRxzdGaG93+0kELqpgEHtwWOlQe7+jSFnKwaCAgL4kjeZCQJnw==",
+      "path": "system.diagnostics.eventlog/6.0.0",
+      "hashPath": "system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+    },
+    "Aws.Lambda.Platform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

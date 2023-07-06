@@ -1,0 +1,10 @@
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws-Lambda.deps.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws-Lambda.runtimeconfig.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws-Lambda.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws.Lambda.Platform.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\AWSSDK.SimpleNotificationService.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws.Lambda.Platform.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\publish\Aws-Lambda.dll

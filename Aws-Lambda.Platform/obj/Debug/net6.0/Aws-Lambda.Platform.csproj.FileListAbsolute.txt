@@ -1,0 +1,12 @@
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\bin\Debug\net6.0\Aws-Lambda.Platform.deps.json
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\bin\Debug\net6.0\Aws-Lambda.Platform.dll
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\bin\Debug\net6.0\Aws-Lambda.Platform.pdb
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.csproj.AssemblyReference.cache
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.AssemblyInfoInputs.cache
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.AssemblyInfo.cs
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.dll
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\refint\Aws-Lambda.Platform.dll
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\Aws-Lambda.Platform.pdb
+C:\Users\Paulo Innovt\Lambda\Aws-Lambda.Platform\obj\Debug\net6.0\ref\Aws-Lambda.Platform.dll

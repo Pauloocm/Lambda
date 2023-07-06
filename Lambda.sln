@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aws-Lambda", "src\Lambda\Aws-Lambda.csproj", "{BE7E4CE8-55EB-41C7-8EDF-64C09B85ED87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aws-Lambda.Tests", "test\Lambda.Tests\Aws-Lambda.Tests.csproj", "{D44F9FB0-90A8-4541-977F-11F77D3488AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aws.Lambda.Platform", "Aws.Lambda.Platformm\Aws.Lambda.Platform.csproj", "{0C91F974-F087-4970-AC8F-A55F84FBDE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7E4CE8-55EB-41C7-8EDF-64C09B85ED87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7E4CE8-55EB-41C7-8EDF-64C09B85ED87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7E4CE8-55EB-41C7-8EDF-64C09B85ED87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7E4CE8-55EB-41C7-8EDF-64C09B85ED87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44F9FB0-90A8-4541-977F-11F77D3488AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D44F9FB0-90A8-4541-977F-11F77D3488AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D44F9FB0-90A8-4541-977F-11F77D3488AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D44F9FB0-90A8-4541-977F-11F77D3488AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C91F974-F087-4970-AC8F-A55F84FBDE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C91F974-F087-4970-AC8F-A55F84FBDE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C91F974-F087-4970-AC8F-A55F84FBDE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C91F974-F087-4970-AC8F-A55F84FBDE63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7626FE09-9447-414E-B06D-E2BFB6417D98}
+	EndGlobalSection
+EndGlobal

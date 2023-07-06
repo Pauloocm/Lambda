@@ -1,0 +1,17 @@
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Lambda.deps.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Lambda.runtimeconfig.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Lambda.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Lambda.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.AssemblyInfo.cs
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.csproj.CopyComplete
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\refint\Lambda.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\Lambda.genruntimeconfig.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Debug\net6.0\ref\Lambda.dll

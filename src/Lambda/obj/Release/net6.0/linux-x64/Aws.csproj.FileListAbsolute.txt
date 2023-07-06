@@ -1,0 +1,17 @@
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Aws.deps.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Aws.runtimeconfig.json
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Aws.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Aws.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\bin\Release\net6.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.csproj.AssemblyReference.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.AssemblyInfoInputs.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.AssemblyInfo.cs
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.csproj.CopyComplete
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\refint\Aws.dll
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.pdb
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\Aws.genruntimeconfig.cache
+C:\Users\Paulo Innovt\Lambda\src\Lambda\obj\Release\net6.0\linux-x64\ref\Aws.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IVkD6YL4VvhPDguefD8yjVisEOdut9c2kvWmqCQHdWHsnBUuHjeaY75oEU05y9erLyFyZrNF2i9DaCmdfhdNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paulo Innovt\\Lambda\\src\\Lambda\\Aws-Lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\awssdk.core\\3.7.107.10\\awssdk.core.3.7.107.10.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.101.84\\awssdk.simplenotificationservice.3.7.101.84.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\nsubstitute\\5.0.0\\nsubstitute.5.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\Paulo Innovt\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.18\\microsoft.netcore.app.crossgen2.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
